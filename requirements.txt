@@ -1,0 +1,33 @@
+# EDA
+pandas
+numpy
+matplotlib
+seaborn
+sweetviz
+ydata-profiling
+autoviz
+
+# Feature Engineering
+featuretools
+scikit-learn
+
+# Modelos de Anomalía
+pyod
+xgboost
+lightgbm
+joblib
+
+# Utilidades
+notebook
+jupyterlab
+ipywidgets
+tqdm
+scipy
+plotly
+
+# AutoML (opcionales)
+pycaret[full]
+optuna
+
+# Guardado/serialización
+pickle-mixin
